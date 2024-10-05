@@ -15,7 +15,7 @@ from threading import Thread
 
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('6551604291:AAEFcILF7cfP1T5bLxhHoPi46Fals7tqsyM')
+bot = telebot.TeleBot('7220640211:AAFUxlh5nBg-415uurjpVbUl6qHeR_dx6Bc')
 
 # Admin user IDs
 admin_id = ['1895138738','1670537997','1131669405']
